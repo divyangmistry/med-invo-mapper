@@ -1,0 +1,30 @@
+# Active env file — never commit
+.env
+
+# Model weights — too large for git
+ollama/
+
+# Runtime outputs
+outputs/
+db/
+logs/
+inputs/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# PyInstaller build artefacts
+build/
+dist/
+*.spec.bak
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user

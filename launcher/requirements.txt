@@ -1,0 +1,3 @@
+# Med-Invo Mapper — Launcher
+# The launcher uses only Python standard library (tkinter).
+# No additional packages required beyond what setup.sh / setup.bat installs.
